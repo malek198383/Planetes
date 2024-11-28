@@ -1,0 +1,93 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+header .menu-container{
+
+    background-color: #1B2430;
+}
+
+header .menu-container div{
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 16px;
+}   
+
+header nav ul{
+    display: flex;
+    list-style: none;
+
+}
+
+header nav a{
+    padding: 41px 16px;
+    color: white;
+    display: block;
+    text-decoration: none;
+
+
+}
+header div img{
+    height: 50px;
+    width: 75px;
+}
+
+header img{
+    width: 100%;
+}
+
+header nav  li:first-of-type a{
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+.planetes{
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+
+}
+
+.planetes img{
+    width: 300px;
+    height: 280px;
+    margin-right: 130px;
+}
+.status{
+        display: flex;
+        padding: 16px 0;
+
+}
+article div .tellurique{
+    
+    background-color:  #D6D5A8;
+    border-radius: 10%;
+    max-width: 1201px;
+    color:  black;
+    margin-right: 15px;
+    padding:  12px 16px;
+
+    
+
+}
+
+article div .antiquite{
+    
+    background-color: #1B2430;
+    border-radius: 10%;
+    max-width: 1201px;
+    height: 22px;
+    color: white;
+    padding: 12px 16px;
+
+    
+}
+
+h2{
+    margin-bottom: ;
+}
