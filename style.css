@@ -4,7 +4,8 @@
     padding: 0;
 }
 
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 header .menu-container{
 
     background-color: #1B2430;
@@ -57,6 +58,7 @@ header nav  li:first-of-type a{
     width: 300px;
     height: 280px;
     margin-right: 130px;
+    padding-top: 40px;
 }
 .status{
         display: flex;
@@ -91,3 +93,424 @@ article div .antiquite{
 h2{
     margin-bottom: 2px;
 }
+
+.planetes2{
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    flex-direction: row-reverse;
+
+}
+
+.planetes2 img{
+    width: 300px;
+    height: 280px;
+    margin-right: 130px;
+    padding-top: 40px;
+    padding-left: 100px;
+}
+.status2{
+        display: flex;
+        padding: 16px 0;
+
+}
+article div .tellurique2{
+    
+    background-color:  #D6D5A8;
+    border-radius: 10%;
+    max-width: 1201px;
+    color:  black;
+    margin-right: 15px;
+    padding:  12px 16px;
+
+    
+
+}
+
+article div .antiquite2{
+    
+    background-color: #1B2430;
+    border-radius: 10%;
+    max-width: 1201px;
+    height: 22px;
+    color: white;
+    padding: 12px 16px;
+
+    
+}
+
+h2{
+    margin-bottom: 2px;
+}
+
+.planetes3{
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+
+}
+
+.planetes3 img{
+    width: 300px;
+    height: 280px;
+    margin-right: 130px;
+    padding-top: 40px;
+}
+.status3{
+        display: flex;
+        padding: 16px 0;
+
+}
+article div .tellurique3{
+    
+    background-color:  #D6D5A8;
+    border-radius: 10%;
+    max-width: 1201px;
+    color:  black;
+    margin-right: 15px;
+    padding:  12px 16px;
+
+    
+
+}
+
+article div .antiquite3{
+    
+    background-color: #1B2430;
+    border-radius: 10%;
+    max-width: 1201px;
+    height: 22px;
+    color: white;
+    padding: 12px 16px;
+
+    
+}
+
+h2{
+    margin-bottom: 2px;
+}
+
+
+    .planetes4{
+        display: flex;
+        max-width: 1200px;
+        margin: auto;
+        flex-direction: row-reverse;
+    }
+    
+    .planetes4 img{
+        width: 300px;
+        height: 280px;
+        margin-right: 130px;
+        padding-top: 40px;
+    }
+    .status4{
+            display: flex;
+            padding: 16px 0;
+    
+    }
+    article div .tellurique4{
+        
+        background-color:  #D6D5A8;
+        border-radius: 10%;
+        max-width: 1201px;
+        color:  black;
+        margin-right: 15px;
+        padding:  12px 16px;
+    
+        
+    
+    }
+    
+    article div .antiquite4{
+        
+        background-color: #1B2430;
+        border-radius: 10%;
+        max-width: 1201px;
+        height: 22px;
+        color: white;
+        padding: 12px 16px;
+    
+        
+    }
+    
+    h2{
+        margin-bottom: 2px;
+    
+}
+
+
+.planetes5{
+    display: flex;
+    max-width: 1200px;
+    margin: auto;
+    flex-direction: row;
+}
+
+.planetes5 img{
+    width: 300px;
+    height: 280px;
+    margin-right: 130px;
+    padding-top: 40px;
+}
+.status5{
+        display: flex;
+        padding: 16px 0;
+
+}
+article div .tellurique4{
+    
+    background-color:  #D6D5A8;
+    border-radius: 10%;
+    max-width: 1201px;
+    color:  black;
+    margin-right: 15px;
+    padding:  12px 16px;
+
+    
+
+}
+
+article div .antiquite4{
+    
+    background-color: #1B2430;
+    border-radius: 10%;
+    max-width: 1201px;
+    height: 22px;
+    color: white;
+    padding: 12px 16px;
+
+    
+}
+
+h2{
+    margin-bottom: 2px;
+}
+
+    .planetes5{
+        display: flex;
+        max-width: 1200px;
+        margin: auto;
+        flex-direction: row;
+    }
+    
+    .planetes5 img{
+        width: 300px;
+        height: 280px;
+        margin-right: 130px;
+        padding-top: 40px;
+    }
+    .status5{
+            display: flex;
+            padding: 16px 0;
+    
+    }
+    article div .tellurique5{
+        
+        background-color:  #D6D5A8;
+        border-radius: 10%;
+        max-width: 1201px;
+        color:  black;
+        margin-right: 15px;
+        padding:  12px 16px;
+    
+        
+    
+    }
+    
+    article div .antiquite5{
+        
+        background-color: #1B2430;
+        border-radius: 10%;
+        max-width: 1201px;
+        height: 22px;
+        color: white;
+        padding: 12px 16px;
+    
+        
+    }
+    
+    h2{
+        margin-bottom: 2px;
+    }
+    
+        .planetes6{
+            display: flex;
+            max-width: 1200px;
+            margin: auto;
+            flex-direction: row-reverse;
+        }
+        
+        .planetes6 img{
+            width: 300px;
+            height: 280px;
+            margin-right: 130px;
+            padding-top: 40px;
+        }
+        .status6{
+                display: flex;
+                padding: 16px 0;
+        
+        }
+        article div .tellurique6{
+            
+            background-color:  #D6D5A8;
+            border-radius: 10%;
+            max-width: 1201px;
+            color:  black;
+            margin-right: 15px;
+            padding:  12px 16px;
+        
+            
+        
+        }
+        
+        article div .antiquite6{
+            
+            background-color: #1B2430;
+            border-radius: 10%;
+            max-width: 1201px;
+            height: 22px;
+            color: white;
+            padding: 12px 16px;
+        
+            
+        }
+        
+        h2{
+            margin-bottom: 2px;
+
+        }
+
+        .planetes7{
+            display: flex;
+            max-width: 1200px;
+            margin: auto;
+            flex-direction: row;
+        }
+        
+        .planetes7 img{
+            width: 300px;
+            height: 280px;
+            margin-right: 130px;
+            padding-top: 40px;
+        }
+        .status7{
+                display: flex;
+                padding: 16px 0;
+        
+        }
+        article div .tellurique7{
+            
+            background-color:  #D6D5A8;
+            border-radius: 10%;
+            max-width: 1201px;
+            color:  black;
+            margin-right: 15px;
+            padding:  12px 16px;
+        
+            
+        
+        }
+        
+        article div .antiquite7{
+            
+            background-color: #1B2430;
+            border-radius: 10%;
+            max-width: 1201px;
+            height: 22px;
+            color: white;
+            padding: 12px 16px;
+        
+            
+        }
+        
+        h2{
+            margin-bottom: 2px;
+
+        }
+
+        .planetes8{
+            display: flex;
+            max-width: 1200px;
+            margin: auto;
+            flex-direction: row-reverse;
+        }
+        
+        .planetes8 img{
+            width: 300px;
+            height: 280px;
+            margin-right: 130px;
+            padding-top: 40px;
+        }
+        .status8{
+                display: flex;
+                padding: 16px 0;
+        
+        }
+        article div .tellurique8{
+            
+            background-color:  #D6D5A8;
+            border-radius: 10%;
+            max-width: 1201px;
+            color:  black;
+            margin-right: 15px;
+            padding:  12px 16px;
+        
+            
+        
+        }
+        
+        article div .antiquite8{
+            
+            background-color: #1B2430;
+            border-radius: 10%;
+            max-width: 1201px;
+            height: 22px;
+            color: white;
+            padding: 12px 16px;
+        
+            
+        }
+        
+        h2{
+            margin-bottom: 2px;
+
+        }
+
+        .background{
+
+            background-color: #1B2430;
+            
+            width: 1200px;
+            margin: auto;
+            
+        }
+
+        .display{
+
+            display: flex;
+            justify-content: space-between;
+            flex-direction: row;
+            
+            
+
+        }
+
+        .style {
+            
+            color: white;
+        }
+
+        .footer-list li a{
+            text-decoration: none;
+            font-family: "Montserrat", sans-serif;
+            color: #9F9F9F;
+
+
+
+        }
+        .footer-list {
+            list-style: none;
+        }
+        
